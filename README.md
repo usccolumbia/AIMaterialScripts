@@ -4,9 +4,9 @@
 
    2022. Summer
 
-### Jessica Chen and Jeffrey Hu
+### Jessica Chen and Jeffrey Hu from DFHS
 
-by <a href="http://mleg.cse.sc.edu" target="_blank">Machine Learning and Evolution Laboratory</a>, University of South Carolina
+working at <a href="http://mleg.cse.sc.edu" target="_blank">Machine Learning and Evolution Laboratory</a>, University of South Carolina
 
 
 ### Description of algorithm
