@@ -2,7 +2,7 @@
 
 ## Machine learning model for ion conductivity prediction
 
-2022. Summer
+   2022. Summer
 
 ### Jessica Chen and Jeffrey Hu
 
