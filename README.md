@@ -87,7 +87,7 @@ python featurize.py
 ```
 
 #### Training 
-An example is to train a RF model on the dataset. 
+An example is to train a RF model on the dataset. It will generate a RF model file random_forest.joblib
 ```
 python train.py
 ```
@@ -97,5 +97,8 @@ python train.py
 ```
 python predict.py test.cif
 ```
+will report
+
+[1]  the probability that this crystal has high-ion conductivity
 
 
