@@ -80,6 +80,7 @@ If predicting more than one file, create a csv in the `IonDatasets` folder  with
 | Filename (cif) | Composition |
 | ----------- | ----------- |
 | LiI.cif | LiI |
+
 If creating your own csv file replace `df = pd.read_csv("IonDatasets/ion_conductivity.csv")` with the path to your csv file
 
 Run this to generate features for training set.
