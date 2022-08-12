@@ -13,7 +13,7 @@ by <a href="http://mleg.cse.sc.edu" target="_blank">Machine Learning and Evoluti
 
 Structural Features calculated: 
 
-Calculated features and datasets were based on research from [Paper]https://pubs.rsc.org/en/content/articlelanding/2017/ee/c6ee02697d 
+Calculated features and datasets were based on research from [Paper](https://doi.org/10.1039/C6EE02697D)
 
 1. Feature1...
 2. 
