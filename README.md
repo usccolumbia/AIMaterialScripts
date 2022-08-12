@@ -61,21 +61,24 @@ report MAE R2 performance of model..
 ### How to train with your own dataset
 
 #### Installation
-1. Create your own conda or other enviroment.
+1. Create your own conda or other enviroment. // is this required for ours?
 2. install basic packages
 ```
-pip install -r requirements.txt
+pip install sklearn
+pip install pymatgen
+
+pip install pandas
+pip install numpy
 ```
-3. Install `pytorch` from [pytorch web](https://pytorch.org/get-started/previous-versions/) given your python & cuda version
+3. Install `pytorch` from [pytorch web](https://pytorch.org/get-started/previous-versions/) given your python & cuda version // is this required for ours?
 
 
 #### Data preparation
-Download datasets from the above link, then unzip it under `MT_dataset` folder.
+Download datasets from the above link, then unzip it under `IonDatasets` folder.
 After the above, the directory should be:
-
-
 ```
-
+| Filename (cif) | Composition |
+| ----------- | ----------- |
 ```
 #### Training 
 An example is to train a MT-GPT model on the Hybrid-mix dataset. 
