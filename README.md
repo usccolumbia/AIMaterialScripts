@@ -9,21 +9,29 @@
 by <a href="http://mleg.cse.sc.edu" target="_blank">Machine Learning and Evolution Laboratory</a>, University of South Carolina
 
 
+### Description of algorithm
+
+Structural Features calculated: 
+
+1. Feature1...
+2. 
 
 
-##  Script1: 
+Machine learning model: 
 
 
-### Benchmark Datasets for training inorganic materials composition transformers
+### Datasets for training
 
 ICSD-mix dataset (52317 samples)
 
 
 
 All above datasets can be downloaded from [Figshare](https://figshare.com/articles/dataset/MT_dataset/20122796)
+reference to Stanford paper.. (where we get the data)
 
-### Trained Materials Transformer Models
+### Model performance
 
+report MAE R2 performance of model..
 
 
 ### How to train with your own dataset
