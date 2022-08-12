@@ -1,3 +1,5 @@
+# This code takes the a cif file and predicts the ion conductivity
+
 from pymatgen.io.cif import CifParser # get cifs
 from crystal_feature import CrystalFeature # feature python code
 import sys # sys.argv[1]
