@@ -80,13 +80,16 @@ If predicting more than one file, create a csv in the `IonDatasets` folder  with
 | ----------- | ----------- |
 | LiI.cif | LiI |
 
+Run this to generate features for training set.
+```
+python featurize.py 
+```
 
 #### Training 
-An example is to train a MT-GPT model on the Hybrid-mix dataset. 
+An example is to train a RF model on the dataset. 
 ```
 python train.py
 ```
-The training for other models is similar to MT-GPT.
 
 ### Predicting ion conductivity
 
