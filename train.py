@@ -1,3 +1,5 @@
+# This code trains the data from Ion_Data_Featurized.csv using the random forest model
+
 #!/usr/bin/env python
 # coding: utf-8
 
