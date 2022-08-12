@@ -97,8 +97,8 @@ python train.py
 ```
 python predict.py test.cif
 ```
-will report
+will report [1]  
 
-[1]  the probability that this crystal has high-ion conductivity
+indicating that that this crystal has high-ion conductivity
 
 
