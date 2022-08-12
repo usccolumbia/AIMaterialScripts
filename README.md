@@ -74,7 +74,7 @@ pip install numpy
 
 
 #### Data preparation
-Download datasets from the above link, then unzip it under `IonDatasets` folder.
+Download IonDatasets folder from files above.
 If predicting more than one file, create a csv in the `IonDatasets` folder  with the Filename and Composition organized as:
 | Filename (cif) | Composition |
 | ----------- | ----------- |
