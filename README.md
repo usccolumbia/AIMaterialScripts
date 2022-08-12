@@ -84,14 +84,14 @@ If predicting more than one file, create a csv in the `IonDatasets` folder  with
 #### Training 
 An example is to train a MT-GPT model on the Hybrid-mix dataset. 
 ```
-python ./MT_model/MT_GPT/train_GPT.py  --tokenizer ./MT_model/tokenizer/   --train_data  ./MT_Dataset/hy_mix/train.txt  --valid_data ./MT_Dataset/hy_mix/valid.txt  --output_dir ./output
+python train.py
 ```
 The training for other models is similar to MT-GPT.
 
 ### Predicting ion conductivity
 
 ```
-python ./MT_model/MT_GPT/train_GPT.py  --tokenizer ./MT_model/tokenizer/   --train_data  ./MT_Dataset/hy_mix/train.txt  --valid_data ./MT_Dataset/hy_mix/valid.txt  --output_dir ./output
+python predict.py test.cif
 ```
 
 
