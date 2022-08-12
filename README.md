@@ -76,10 +76,10 @@ pip install numpy
 #### Data preparation
 Download datasets from the above link, then unzip it under `IonDatasets` folder.
 After the above, the directory should be:
-```
 | Filename (cif) | Composition |
 | ----------- | ----------- |
-```
+
+
 #### Training 
 An example is to train a MT-GPT model on the Hybrid-mix dataset. 
 ```
