@@ -2,13 +2,13 @@
 
 ## Machine learning model for ion conductivity prediction
 
-
+2022. Summer
 
 ### Jessica Chen and Jeffrey Hu
 
 by <a href="http://mleg.cse.sc.edu" target="_blank">Machine Learning and Evolution Laboratory</a>, University of South Carolina
 
-2022. Summer.
+
 
 
 ##  Script1: 
