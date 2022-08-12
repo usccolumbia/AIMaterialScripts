@@ -11,7 +11,7 @@ by <a href="http://mleg.cse.sc.edu" target="_blank">Machine Learning and Evoluti
 
 ### Description of algorithm
 
-Structural Features calculated: 
+**Structural Features calculated: **
 
 More information about calculated features as well as the training dataset can be found in [Paper](https://doi.org/10.1039/C6EE02697D). 
 
@@ -37,7 +37,7 @@ More information about calculated features as well as the training dataset can b
 20. Ratio of average Li neighbor count to average sublattice neighbor count, RNC
 
 
-Machine learning model: 
+**Machine learning model: **
 
 The machine learning model used to train the data (from [Paper](https://doi.org/10.1039/C6EE02697D)) was a random forest classifier. 
 // I don't know what else to add
