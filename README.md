@@ -39,10 +39,14 @@ More information about calculated features as well as the training dataset can b
 
 Machine learning model: 
 
+The machine learning model used to train the data (from [Paper](https://doi.org/10.1039/C6EE02697D)) was a random forest classifier. 
+// I don't know what else to add
+
 
 ### Datasets for training
 
 ICSD-mix dataset (52317 samples)
+//this one we didnt train with icsd we trained with the 30 things
 
 
 
