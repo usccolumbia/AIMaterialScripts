@@ -76,7 +76,7 @@ pip install numpy
 #### Data preparation
 Download IonDatasets folder from files above.
 
-If predicting more than one file, create a csv in the `IonDatasets` folder  with the Filename and Composition organized as:
+To prepare your training data, create a csv in the `IonDatasets` folder. The csv should have two columns organized like below:
 | Filename (cif) | Composition |
 | ----------- | ----------- |
 | LiI.cif | LiI |
