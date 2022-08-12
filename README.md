@@ -76,10 +76,10 @@ pip install numpy
 #### Data preparation
 Download IonDatasets folder from files above.
 
-To train on your own dataset, you need to create the ionconductivity.csv file in the `IonDatasets` folder  with the Filename and Composition organized as:
-| Filename (cif) | Composition |ion-conductivity|
-| ----------- | ----------- | -------------|
-| LiI.cif | LiI | 0.0234|
+If predicting more than one file, create a csv in the `IonDatasets` folder  with the Filename and Composition organized as:
+| Filename (cif) | Composition |
+| ----------- | ----------- |
+| LiI.cif | LiI |
 
 Run this to generate features for training set.
 ```
@@ -91,6 +91,9 @@ An example is to train a RF model on the dataset. It will generate a RF model fi
 ```
 python train.py
 ```
+To train your own file, replace `df = pd.read_csv("Ion_Data_Featurized.csv")` with your own csv file.
+
+To change what features the training model uses replace `a = ['aav', 'sdlc', 'sdli','lbi', 'lnc', 'llb', 'sbi', 'snc', 'afc', 'aasd', 'vpa', 'lasd', 'llsd', 'ens', 'pf', 'spf', 'slpw', 'slpe', 'rbi', 'rnc']` with the column names of the features you are using.
 
 ### Predicting ion conductivity
 
