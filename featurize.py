@@ -1,3 +1,5 @@
+# This code takes the cif files from IonDatasets and calculates features for the respective cif 
+
 #!/usr/bin/env python
 # coding: utf-8
 
