@@ -10,6 +10,9 @@ by <a href="http://mleg.cse.sc.edu" target="_blank">Machine Learning and Evoluti
 2022. Summer.
 
 
+##  Script1: Machine learning model for ion conductivity prediction
+
+
 ### Benchmark Datasets for training inorganic materials composition transformers
 
 ICSD-mix dataset (52317 samples)
@@ -53,4 +56,5 @@ The training for other models is similar to MT-GPT.
 ```
 python ./MT_model/MT_GPT/train_GPT.py  --tokenizer ./MT_model/tokenizer/   --train_data  ./MT_Dataset/hy_mix/train.txt  --valid_data ./MT_Dataset/hy_mix/valid.txt  --output_dir ./output
 ```
+
 
