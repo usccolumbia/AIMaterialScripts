@@ -1,7 +1,8 @@
 # AIMaterialScripts
 
+## Machine learning model for ion conductivity prediction
 
-Ciation: Nihang Fu, Lai Wei, Yuqi Song, Qinyang Li, Rui Xin, Sadman Sadeed Omee, Rongzhi Dong, Edirisuriya M. Dilanga Siriwardane, Jianjun Hu.  Materials Transformer Language Models for Generative Materials Design: a Benchmark Study. Arxiv 2022
+
 
 ### Jessica Chen and Jeffrey Hu
 
@@ -10,7 +11,7 @@ by <a href="http://mleg.cse.sc.edu" target="_blank">Machine Learning and Evoluti
 2022. Summer.
 
 
-##  Script1: Machine learning model for ion conductivity prediction
+##  Script1: 
 
 
 ### Benchmark Datasets for training inorganic materials composition transformers
