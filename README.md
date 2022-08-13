@@ -51,7 +51,7 @@ ion conductivity dataset (32 samples)
 
 
 All above datasets can be downloaded from [Figshare](https://figshare.com/articles/dataset/MT_dataset/20122796)
-reference to Stanford paper.. (where we get the data)
+reference to  [Paper](https://doi.org/10.1039/C6EE02697D)
 
 ### Model performance
 
@@ -61,7 +61,7 @@ report MAE R2 performance of model..
 ### How to train with your own dataset
 
 #### Installation
-1. Create your own conda or other enviroment. // is this required for ours?
+1. Create your own conda or other enviroment. 
 2. install basic packages
 ```
 pip install sklearn
@@ -70,7 +70,7 @@ pip install pymatgen
 pip install pandas
 pip install numpy
 ```
-3. Install `pytorch` from [pytorch web](https://pytorch.org/get-started/previous-versions/) given your python & cuda version // is this required for ours?
+
 
 
 #### Data preparation
