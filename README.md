@@ -46,7 +46,6 @@ The machine learning model used to train the data (from [Paper](https://doi.org/
 ### Datasets for training
 
 ion conductivity dataset (32 samples)
-//this one we didnt train with icsd we trained with the 30 things
 
 
 
