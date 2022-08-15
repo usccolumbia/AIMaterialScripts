@@ -2,12 +2,13 @@
 
 ## Machine learning model for ion conductivity prediction
 
-   2022. Summer
+This project implements a set of physics based structural features for ion conductivity prediction of lithium compounds and develops a Random Forest based machine learning model for it.
 
 ### Jessica Chen and Jeffrey Hu from DFHS
 
 working at <a href="http://mleg.cse.sc.edu" target="_blank">Machine Learning and Evolution Laboratory</a>, University of South Carolina
 
+2022. Summer
 
 ### Description of algorithm
 
